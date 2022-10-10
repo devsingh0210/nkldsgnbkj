@@ -1,0 +1,106 @@
+body{background-color:#EAF6F6;
+     text-align: center;
+    margin: 0;}
+
+hr{
+   border-style: dotted none none none;
+   border-color: white;
+   border-width: 7px;
+   width: 7%;}
+
+h1{color: #66BFBF;
+   font-family: "Sacramento", cursive;
+   font-size: 580%;}
+
+h2{color: #66BFBF;
+   font-family: "Foundry", sans-serif;
+   font-size: 2.5rem;}
+
+h3{color: #31C6D4;
+   font-family: "Foundry", sans-serif;
+   font-size: 1.875rem;
+   margin-bottom: 1%;}
+
+p{font-size: 1.25rem;
+  color: #40514E;
+  font-family: 'Roboto Flex', sans-serif;
+  width: 50%;
+  margin: auto;
+  line-height: 2;}
+  .cloud1{position: absolute;
+    left: 7%;
+    bottom: 78%;
+}
+
+.cloud2{position: absolute;
+  bottom: 12.44rem;
+right: 3.08rem;
+}
+
+.mountain{margin-bottom: 5%;
+          margin-top: 0;
+          width: 85%;}
+
+div{margin-top: 5%;
+    margin-bottom: 5%;}
+
+img{width: 20%;}
+
+.pythonimg{float: left;
+        margin-left: 20%;
+        margin-right: 30px;}
+
+.webimg{float: right;
+        margin-left: 30px;
+        margin-right: 20%;}
+
+.python{text-align: left;}
+.webd{text-align: left;}
+.para{width: 70%;}
+.heading{margin-left: 15%;}
+
+.btn {
+  background: #31C6D4;
+  background-image: -webkit-linear-gradient(top, #31C6D4, #2980b9);
+  background-image: -moz-linear-gradient(top, #31C6D4, #2980b9);
+  background-image: -ms-linear-gradient(top, #31C6D4, #2980b9);
+  background-image: -o-linear-gradient(top, #31C6D4, #2980b9);
+  background-image: linear-gradient(to bottom, #31C6D4, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #f5f0f5;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #3498db);
+  background-image: -moz-linear-gradient(top, #66BFBF, #3498db);
+  background-image: -ms-linear-gradient(top, #66BFBF, #3498db);
+  background-image: -o-linear-gradient(top, #66BFBF, #3498db);
+  background-image: linear-gradient(to bottom, #66BFBF, #3498db);
+  text-decoration: none;
+}
+
+.bottom-container{background-color: #66BFBF;
+                  margin-bottom: 0;
+                  }
+
+h4{margin-bottom: 0;}
+.start{margin-bottom: 0;}
+
+.footer-link{display: inline-block;
+             margin: 10px;}
+
+.div{background-color: #66BFBF;
+     margin: 0 auto;
+     padding: 0;
+     border: 0;}
+
+.robot{width: 3%;
+       float: left;
+      margin-left: 1%;}
